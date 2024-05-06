@@ -239,7 +239,7 @@ Development of WRF4PALM is based on WRF2PALM (https://github.com/ricardo88faria/
 A full documentation is still under construction, if you have any queries please contact the author or open a new issue.
 
 --------------------------------------------------------------------------------------------
-**Contact: Dongqi Lin (dongqi.lin@pg.canterbury.ac.nz)**
+**Contact: Dongqi Lin (dongqi.lin@monash.edu)**
 
 **How to cite**
 
